@@ -1,6 +1,6 @@
 # <center>islamics_opensources_projects</center> 
 
- ## APIS --
+ ## APIS 
 - [1 - The Quran.com API => https://github.com/quran/quran.com-api ]
 - [2 - https://github.com/quran/quran-api-docs  ]
 - [ 3 - https://github.com/quran/audio.quran.com ] 
