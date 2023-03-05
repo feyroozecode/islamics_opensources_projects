@@ -3,7 +3,7 @@
  ## APIS 
 - [1 - The Quran.com API => https://github.com/quran/quran.com-api ]
 - [2 - https://github.com/quran/quran-api-docs  ]
-- [ 3 - https://github.com/quran/audio.quran.com ] 
+- [3 - https://github.com/quran/audio.quran.com ] 
 
  ## WEBSITES 
 - [ 1 - The Quran.com : https://github.com/quran/quran.com-frontend ]
