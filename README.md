@@ -5,7 +5,7 @@
 - [2 - https://github.com/quran/quran-api-docs  ]
 - [ 3 - https://github.com/quran/audio.quran.com ] 
 
--- ## WEBSITES -- 
+-- WEBSITES -- 
 - [ 1 - The Quran.com : https://github.com/quran/quran.com-frontend ]
 - [ 2 - https://github.com/quran/quran.com-frontend-v2 ]
 
