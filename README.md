@@ -1,4 +1,4 @@
-# <center>islamics_opensources_projects</center> 
+# <center> Islamics Opensources Projects </center> 
 
  ## APIS 
 - [1 - The Quran.com API => https://github.com/quran/quran.com-api ]
